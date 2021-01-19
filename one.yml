@@ -173,6 +173,10 @@ highlights:
   # LSP
   LspDiagnosticsDefaultError: "error_red"
   LspDiagnosticsFloatingError: "error_red"
+  LspDiagnosticsUnderlineError: "error_red - u"
+  LspDiagnosticsUnderlineWarning: "- - u"
+  LspDiagnosticsUnderlineInformation: "- - u"
+  LspDiagnosticsUnderlineHint: "- - u"
 
   # -- START Languages --
   # HTML (keep consistent with Markdown, below)
